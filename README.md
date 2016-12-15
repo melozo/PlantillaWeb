@@ -1,7 +1,7 @@
 # Plantilla para web
-Base para aplicaciones web .
+Base para aplicaciones web
 
-** Gulp
+## Gulp
 
 * Sass
 * Autoprefixer
